@@ -45,12 +45,11 @@ int main()
     char string[50];
     char string2[50];
 
-    printf("\n\n1. Ingrese los muertos del dia.");
-    scanf("%d", &muertosDia);
+
 
     //actualizarMuertos(&pais, muertosDia);
 
-    printf("\nMuertos del pais: %d", pais.muertos);
+
 
 
     printf("\n\n2. Ingrese la cadena a la cual se le ordenaran los caracteres.\n >",string);
