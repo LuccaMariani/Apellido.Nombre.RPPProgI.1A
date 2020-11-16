@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1605532135 source:c:\users\sentey\documents\codeblocks\prueba\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1605534297 source:c:\users\sentey\desktop\recuperatorio primer parcial\apellido.nombre.rppprogi.1a\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
